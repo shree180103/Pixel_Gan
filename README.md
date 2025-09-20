@@ -1,1 +1,1 @@
-# Pixel_Gan
+# Pix2Pix_Gan
