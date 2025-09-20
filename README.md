@@ -26,3 +26,6 @@ We use this Lagrangian to force the effect of the L1 norm without overpowering t
 
 ![](https://github.com/shree180103/Pixel_Gan/blob/main/output.png)
 
+![](https://github.com/shree180103/Pixel_Gan/blob/main/output_shoes.png)
+
+
