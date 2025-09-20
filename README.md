@@ -23,3 +23,6 @@ We use this Lagrangian to force the effect of the L1 norm without overpowering t
 # Results
 
 ![scdqcq](./output_satalite%20images.png)
+
+![](https://github.com/shree180103/Pixel_Gan/blob/main/output.png)
+
