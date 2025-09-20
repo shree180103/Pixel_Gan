@@ -10,4 +10,11 @@ Generator: The U-Net is a type of encoder-decoder network with skip connections.
 
 Discriminator:The discriminator in Pix2Pix is implemented as a PatchGAN. The key idea is: instead of classifying the entire image as real or fake, the discriminator works on local image patches (e.g. 70×70 patches) and produces a feature map of decisions (one per patch).
 
+# Loss Functions
+
+<img width="1228" height="114" alt="image" src="https://github.com/user-attachments/assets/5942a186-13ed-4380-94cc-ead5d6a2ab1b" />
+<img width="678" height="172" alt="image" src="https://github.com/user-attachments/assets/23198d90-0f3f-4656-b85a-6d763896b9ce" />
+<img width="779" height="153" alt="image" src="https://github.com/user-attachments/assets/e8405860-b632-4807-b777-5ffc551ed489" />
+
+
 ![scdqcq](./output_satalite%20images.png)
