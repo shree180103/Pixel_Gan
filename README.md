@@ -4,7 +4,7 @@ Pix2Pix GAN is a conditional Generative Adversarial Network (cGAN) designed for 
 ![](https://github.com/shree180103/Pixel_Gan/blob/main/imgs/Screenshot%202025-09-20%20232123.png)
 
 # Model architecture
-![](https://github.com/shree180103/Pixel_Gan/blob/main/imgs/Screenshot%202025-09-20%20232442.png)
+![](https://github.com/shree180103/Pixel_Gan/blob/main/imgs/image.png)
 
 Generator: The U-Net is a type of encoder-decoder network with skip connections. It was originally introduced for segmentation tasks, where keeping both high-level/contextual features and low-level/spatial detail is essential. Pix2Pix adopts this architecture for its generator.
 
