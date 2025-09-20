@@ -18,7 +18,7 @@ Discriminator:The discriminator in Pix2Pix is implemented as a PatchGAN. The key
 
 <img width="779" height="153" alt="image" src="https://github.com/user-attachments/assets/e8405860-b632-4807-b777-5ffc551ed489" />
 
-We use this Lagrangian to force the effect of the L1 norm without overpowering the GAN loss. 
+We use this Lagrangian to force the effect of the L1 norm without overpowering the conditional GAN loss. 
 
 # Results
 
